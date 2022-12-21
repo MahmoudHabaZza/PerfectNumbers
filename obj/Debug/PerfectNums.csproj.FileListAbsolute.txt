@@ -1,0 +1,8 @@
+C:\Users\everest\source\repos\PerfectNums\PerfectNums\bin\Debug\PerfectNums.exe.config
+C:\Users\everest\source\repos\PerfectNums\PerfectNums\bin\Debug\PerfectNums.exe
+C:\Users\everest\source\repos\PerfectNums\PerfectNums\bin\Debug\PerfectNums.pdb
+C:\Users\everest\source\repos\PerfectNums\PerfectNums\obj\Debug\PerfectNums.csproj.AssemblyReference.cache
+C:\Users\everest\source\repos\PerfectNums\PerfectNums\obj\Debug\PerfectNums.csproj.SuggestedBindingRedirects.cache
+C:\Users\everest\source\repos\PerfectNums\PerfectNums\obj\Debug\PerfectNums.csproj.CoreCompileInputs.cache
+C:\Users\everest\source\repos\PerfectNums\PerfectNums\obj\Debug\PerfectNums.exe
+C:\Users\everest\source\repos\PerfectNums\PerfectNums\obj\Debug\PerfectNums.pdb
